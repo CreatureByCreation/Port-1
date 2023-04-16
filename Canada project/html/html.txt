@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./canadastyle.css">
+  <title>the canada project</title>
+</head>
+<body>
+  <main>
+
+ 
+<div class="hero-image">
+  <!-- Load an icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="navbar">
+  <a class="active" href="#"><i class="fa fa-fw fa-home"></i> Home</a>
+  <a href="#"><i class="fa fa-fw fa-search"></i> Search</a>
+  <a href="#"><i class="fa fa-fw fa-envelope"></i> Contact</a>
+  <a href="#"><i class="fa fa-fw fa-user"></i> Login</a>
+</div>
+  </div>
+  <div class="container">
+    <div class="content">
+      <h1>Canada</h1>
+      <p>The land of green and gold...The land of oportunity!</p>
+      <p>Are you ready?</p>
+    </div>
+  </div>
+</div>
+<p></p>
+<p></p>
+<p></p>
+
+
+<hr class="rounded">
+
+<ul id="myMenu"><div class="image-container">
+  
+  <li><img src="https://cdn.iconscout.com/icon/free/png-128/food-3153938-2627899.png"
+    width="80"
+    height="80" /><a href="https://canadas100best.com/best-restaurants-2022-by-rank/">Restaurants</a></li>
+  <li><img src="https://cdn.iconscout.com/icon/free/png-128/hotel-512-453740.png"
+    width="80"
+    height="80" /><a href="https://www.tripadvisor.co.za/HotelsList-Canada-Budget-Hotels-zfp10946834.html">Hotels</a></li>
+  <li><img src="https://cdn.iconscout.com/icon/free/png-128/sleepover-3988658-3296921.png"
+    width="80"
+    height="80" /><a href="https://www.tripadvisor.co.za/Hotels-g153339-c2-Canada-Hotels.html">Bed and breakfast</a></li>
+  <li><img src="https://cdn.iconscout.com/icon/free/png-128/archery-arrows-2187250-1839528.png"
+    width="80"
+    height="80" /><a href="https://theplanetd.com/best-things-to-do-in-canada/">Activities</a></li>
+  <li><img src="https://cdn.iconscout.com/icon/free/png-128/mountains-5552826-4642468.png"
+    width="80"
+    height="80" /><a href="https://traveltriangle.com/blog/best-places-to-visit-in-canada/">Sight seeing</a></li>
+  <li><img src="https://cdn.iconscout.com/icon/free/png-128/camp-1808412-1535902.png"
+    width="80"
+    height="80" /><a href="https://www.skyscanner.ca/tips-and-inspiration/best-camping-canada">Camp sites</a></li>
+  <li><img src="https://cdn.iconscout.com/icon/free/png-128/native-american-4600077-3836451.png"
+    width="80"
+    height="80" /><a href="https://www.commisceo-global.com/resources/country-guides/canada-guide">Culture</a></li>
+  <li><img src="https://cdn.iconscout.com/icon/free/png-128/online-flight-booking-1451161-1226139.png"
+    width="80"
+    height="80" /><a href="https://www.movingwaldo.com/moving-tips/cost-of-living-canada/">Costs and reservations</a></li>
+  <li><img src="https://cdn.iconscout.com/icon/free/png-128/rent-key-1778130-1515286.png"
+    width="80"
+    height="80" /><a href="https://www.zillow.com/z/canada/canada-homes/">Rentals apartments</a></li>
+  <li><img src="https://cdn.iconscout.com/icon/free/png-128/cab-1660490-1409121.png"
+    width="80"
+    height="80" /><a href="https://www.za.kayak.com/Canada-Car-hire.43.crc.html?gclid=EAIaIQobChMIuK-pgc61_AIVpejtCh2qfQyAEAAYBCAAEgI5m_D_BwE">Rentals cars</a></li>
+    </div>
+</ul>
+<hr class="rounded">
+<div class="image-container">
+  <img src="https://images.pexels.com/photos/3694352/pexels-photo-3694352.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  width="400"
+  height="600" />
+  <img src="https://images.pexels.com/photos/11291986/pexels-photo-11291986.jpeg?auto=compress&cs=tinysrgb&w=1600"
+ width="400"
+ height="600" />
+  <img src="https://images.pexels.com/photos/9712772/pexels-photo-9712772.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  width="400"
+ height="600" />
+   <img src="https://images.pexels.com/photos/10771988/pexels-photo-10771988.jpeg?auto=compress&cs=tinysrgb&w=1600"
+   width="400"
+ height="600" />
+ </div>
+
+
+  </main>
+</body>
+</html>
